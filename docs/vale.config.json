@@ -1,0 +1,8 @@
+{
+  "distFolde": "dist",
+
+  "languages": [
+    {"code": "en", "language": "English"},
+    {"code": "fr", "language": "Français"}
+  ]
+}
